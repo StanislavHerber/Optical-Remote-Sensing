@@ -18,6 +18,11 @@ Remote sensing (or Earth Observation) is based on principle of measuring the amo
 
 The information obtained from optical remote sensing can be used for a wide range of applications, including environmental monitoring, natural resource management, agriculture, urban planning, and disaster management. Optical remote sensing can provide information on a variety of environmental parameters, such as land cover, vegetation health, water quality, and atmospheric conditions.
 
+The image below describes grahically basics of remote sensing. A,D: the source of radiation, B: impacting radiation, D: reciever of reflected/emitted radiation, E: transmittion of recorded radiation to receiving station, F: pre-processing, G: processing of remote sensing data 
+
+![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/c851a3b2-f51e-4674-ac21-d54c122ce7ad)
+
+
 # Hyperspectral remote sensing technology
 # Data archives
 # Websites
