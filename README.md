@@ -42,7 +42,7 @@ Hyperspectral remote sensing, also known as imaging spectroscopy, is a specializ
 
 The data collected by hyperspectral sensors is structured in a 3-dimensional format known as a data cube, with spatial dimensions and a spectral dimension, allowing for the extraction of detailed spectral signatures of materials and objects present in the observed area.
 
-![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/33e983ab-3a63-4d58-8d7d-1c54ec488c68| width=100))
+![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/33e983ab-3a63-4d58-8d7d-1c54ec488c68|))
 Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image on top is a color composite of just three of the 224 available bands (RGB = near-infrared, red, green).
 
 # Data archives
