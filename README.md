@@ -46,6 +46,19 @@ The data collected by hyperspectral sensors is structured in a 3-dimensional for
 Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image on top is a color composite of just three of the 224 available bands (RGB = near-infrared, red, green).
 
 # Data archives
+## Satellite data sources
+* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
+* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
+* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
+* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
+* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
+
+## Aerial data sources
+
+## UAV data sources
+
+## Handheld sensor sources
+
 # Websites
 ## Forums
 ## Training
