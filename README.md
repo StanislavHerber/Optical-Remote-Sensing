@@ -25,7 +25,7 @@ Fig. 1: Basics of remote sensing
 
 # Brief history of remote sensing
 * 1794 - Battlefield observation via ballons</a>;
-* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/0b28aafa-7aba-4b46-a89c-d36fb3663b69)
+* <img src="https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/0b28aafa-7aba-4b46-a89c-d36fb3663b69" width="300" height="200">
 * 1858 - Photography from flying kites, remote sensing via pidgeons</a>;
 * ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/ee4f3e4b-cb02-459c-a58b-914ecd90ae28)
 * 1903 - First succesfull flight of brothers Wrights</a>;
