@@ -47,11 +47,17 @@ Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image o
 
 # Data archives
 ## Satellite data sources
-* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
-* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
-* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
-* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
-* [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>;
+* [Hyperion](https://asf.alaska.edu/) - Hyperion (2000)</a>;
+* [GOME](https://asf.alaska.edu/) - GOME-2 (2006)</a>;
+* [OCO](https://asf.alaska.edu/) - OCO-2 (2024)</a>;
+* [SPARK](https://asf.alaska.edu/) - Spark-1 (2016)</a>;
+* [TECIS](https://asf.alaska.edu/) - TECIS</a>;
+* [EnMAP](https://asf.alaska.edu/) - EnMAP(2022)</a>;
+* [PRISMA](https://asf.alaska.edu/) - PRISMA (2019)</a>;
+* [FLEX](https://asf.alaska.edu/) - FLEX (planned)</a>;
+* [CHIME](https://asf.alaska.edu/) - CHIME (planned)</a>;
+* [TANAGER](https://asf.alaska.edu/) - TANAGER Planet (planned)</a>;
+* [SHALOM](https://asf.alaska.edu/) - SHALOM (planned)</a>;
 
 ## Aerial data sources
 
