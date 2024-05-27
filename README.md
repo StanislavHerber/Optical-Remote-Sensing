@@ -47,23 +47,32 @@ Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image o
 
 # Data archives
 ## Satellite data sources
-* [Hyperion](https://asf.alaska.edu/) - Hyperion (2000)</a>;
-* [GOME](https://asf.alaska.edu/) - GOME-2 (2006)</a>;
-* [OCO](https://asf.alaska.edu/) - OCO-2 (2024)</a>;
-* [SPARK](https://asf.alaska.edu/) - Spark-1 (2016)</a>;
-* [TECIS](https://asf.alaska.edu/) - TECIS</a>;
-* [EnMAP](https://asf.alaska.edu/) - EnMAP(2022)</a>;
-* [PRISMA](https://asf.alaska.edu/) - PRISMA (2019)</a>;
+* [Hyperion](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion) - Hyperion (2000)</a>;
+* [GOME](https://navigator.eumetsat.int/product/EO:EUM:DAT:0533) - GOME-2 (2006)</a>;
+* [OCO](https://disc.gsfc.nasa.gov/datasets?keywords=oco3) - OCO-2 (2024)</a>;
+* [SPARK]() - Spark-1 (2016)</a>;
+* [TECIS]() - TECIS</a>;
+* [EnMAP](https://planning.enmap.org/) - EnMAP(2022)</a>;
+* [DESIS](https://geoservice.dlr.de/data-assets/hxom21uqeo90.html) - DESIS(2018)</a>;
+* [PRISMA](https://prisma.asi.it/authenticationendpoint/login.do?client_id=HfvpCVmAk24rSdCB4E4xu5Vf3LUa&commonAuthCallerPath=%2Foauth2%2Fauthorize&forceAuth=false&nonce=b408a6558367000360ebeb5678104b69&passiveAuth=false&redirect_uri=http%3A%2F%2Fprisma.asi.it%2Fmissionselect%2F&response_type=code&scope=openid+email&state=96607476446631be450f5c11799b0cb4&tenantDomain=carbon.super&sessionDataKey=a0e8ff9e-f2f0-4288-a595-ef1e46d39840&relyingParty=HfvpCVmAk24rSdCB4E4xu5Vf3LUa&type=oidc&sp=prs-user-Interfaces&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL) - PRISMA (2019)</a>;
 * [FLEX](https://asf.alaska.edu/) - FLEX (planned)</a>;
 * [CHIME](https://asf.alaska.edu/) - CHIME (planned)</a>;
 * [TANAGER](https://asf.alaska.edu/) - TANAGER Planet (planned)</a>;
 * [SHALOM](https://asf.alaska.edu/) - SHALOM (planned)</a>;
 
 ## Aerial data sources
-
+* [AVIRIS](https://avirisng.jpl.nasa.gov/) - AVIRIS (1993)</a>;
+* [HyMAP](https://crustal.usgs.gov/speclab/index.php?group=Convolved+to+Terrestrial+Spectrometers) - HyMAP (1998)</a>;
+* [AISA]() - AisaEAGLE (2000)</a>;
+* [Czechglobe](https://olc.czechglobe.cz/flis/) - CASI/SASI/TASI (2000)</a>;
+ 
 ## UAV data sources
+* [HyperSpec]() - NANO-Hyperspec (1993)</a>;
+* [PIXA]() - Pixa XC2 (1993)</a>;
 
 ## Handheld sensor sources
+* [ASD]() - ASD FieldSpec4 (1993)</a>;
+
 
 # Websites
 ## Forums
