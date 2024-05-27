@@ -20,10 +20,18 @@ The information obtained from optical remote sensing can be used for a wide rang
 
 The image below describes grahically basics of remote sensing. A,D: the source of radiation, B: impacting radiation, D: reciever of reflected/emitted radiation, E: transmittion of recorded radiation to receiving station, F: pre-processing, G: processing of remote sensing data 
 
-![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/c851a3b2-f51e-4674-ac21-d54c122ce7ad)
-
+<img src="https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/395c403e-6579-4d78-8689-a37f68787964" width="300" height="200">
+Fig. 1: Basics of remote sensing
 
 # Hyperspectral remote sensing technology
+
+Hyperspectral remote sensing, also known as imaging spectroscopy, is a specialized field within remote sensing that involves the analysis and evaluation of reflected or emitted radiation detected by sensors capturing a high number of narrow, contiguous, and continuous spectral bands (it consists of dozens up to hundreds of bands within EM spectrum). Compared to multispectral imagery, hyperspectral bands are much narrower wide only couple of nm. All bands create essentialy a complete graph of entire electromagnetic values.
+
+The data collected by hyperspectral sensors is structured in a 3-dimensional format known as a data cube, with spatial dimensions and a spectral dimension, allowing for the extraction of detailed spectral signatures of materials and objects present in the observed area.
+
+![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/33e983ab-3a63-4d58-8d7d-1c54ec488c68)
+Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image on top is a color composite of just three of the 224 available bands (RGB = near-infrared, red, green).
+
 # Data archives
 # Websites
 ## Forums
