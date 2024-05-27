@@ -23,6 +23,19 @@ The image below describes grahically basics of remote sensing. A,D: the source o
 <img src="https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/395c403e-6579-4d78-8689-a37f68787964" width="300" height="200">
 Fig. 1: Basics of remote sensing
 
+# Brief history of remote sensing
+1794 - Battlefield observation via ballons
+1858 - Photography from flying kites, remote sensing via pidgeons
+1903 - First succesfull flight of brothers Wrights
+1908 - First photography from aeroplane unsure - either cpt. Cesare Tardivo, who captured Benghazi, Lybia from plane or L.P. Bonvillain captured France from plane.
+I. world war - photos of enemies from planes with camera in hand
+Between WWI and WWII British pilots were noticing monuments -> creation of aerial archeology
+Cold War 1946 - In New Mexico rocket was launched with camera to 105 km height -> first photo from space
+1958 - First espionage satellite - Russian Sputnik (1957) and US Corona (1958)
+1972 - First civil system for Earth research - Landsat
+1999 - First 1 m satellite IKONOS
+2007 - WorldView satellite 50 cm resolutions
+
 # Hyperspectral remote sensing technology
 
 Hyperspectral remote sensing, also known as imaging spectroscopy, is a specialized field within remote sensing that involves the analysis and evaluation of reflected or emitted radiation detected by sensors capturing a high number of narrow, contiguous, and continuous spectral bands (it consists of dozens up to hundreds of bands within EM spectrum). Compared to multispectral imagery, hyperspectral bands are much narrower wide only couple of nm. All bands create essentialy a complete graph of entire electromagnetic values.
