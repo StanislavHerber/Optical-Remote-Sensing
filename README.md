@@ -25,16 +25,33 @@ Fig. 1: Basics of remote sensing
 
 # Brief history of remote sensing
 * 1794 - Battlefield observation via ballons</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/0b28aafa-7aba-4b46-a89c-d36fb3663b69)
 * 1858 - Photography from flying kites, remote sensing via pidgeons</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/ee4f3e4b-cb02-459c-a58b-914ecd90ae28)
 * 1903 - First succesfull flight of brothers Wrights</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/056fb25e-fc06-4391-ac20-cbeee5169899)
 * 1908 - First photography from aeroplane unsure - either cpt. Cesare Tardivo, who captured Benghazi, Lybia from plane or L.P. Bonvillain captured France from plane.</a>;
 * I. world war - photos of enemies from planes with camera in hand</a>;
 * Between WWI and WWII British pilots were noticing monuments -> creation of aerial archeology</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/85a272ed-e2cb-443c-92af-8b26c5038031)
 * Cold War 1946 - In New Mexico rocket was launched with camera to 105 km height -> first photo from space</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/2a6245a5-5e4e-44a1-b967-2429cf99d26e)
 * 1958 - First espionage satellite - Russian Sputnik (1957) and US Corona (1958)</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/5027e56d-dd78-4916-bdc0-dd998e923aed)
 * 1972 - First civil system for Earth research - Landsat</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/bc72c95c-94e2-4573-898d-ffa065b20717)
 * 1999 - First 1 m satellite IKONOS</a>;
-* 2007 - WorldView satellite 50 cm resolutions</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/36ea73e1-9836-418e-9fb3-6fcaef6bb613)
+* 2007 - WorldView satellite 50 cm resolution</a>;
+* ![image](https://github.com/StanislavHerber/Optical-Remote-Sensing/assets/134272440/ce7168d9-6ded-4eeb-81cb-2981f8d424b5)
+* 2008 - Planet RapidEye 5 m resolution</a>;
+* 2014 - Sentinel-1 SAR c-band 5 m resolution</a>;
+* 2015 - Sentinel-2 multispectral 13 bands 10,20,60 m resolution</a>;
+* 2015 - Planet Dove constillation 3 m resolution</a>;
+* 2016 - Sentinel-3 multispectral 21 bands, 300 m</a>;
+* 2017 - Sentinel-5P multispectral 7 bands (UV, VIS, NIR, SWIR), 3.5 km resolution</a>; 
+* 2020 - Planet SkySat 50 cm resolution</a>;
+* 2023 - Planet Pelican 30 cm resolution</a>;
 
 # Hyperspectral remote sensing technology
 
