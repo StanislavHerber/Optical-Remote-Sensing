@@ -73,15 +73,19 @@ Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image o
 ## Handheld sensor sources
 * [ASD]() - ASD FieldSpec4 (1993)</a>;
 
+# Available software
+* [QGIS](https://qgis.org/en/site/) - A free and open source geographic information system capable of processing hyperspectral imagery.</a>;
+* [EnMAP-Box](https://enmap-box.readthedocs.io/en/latest/) - Python plugin for QGIS designed to process and visualize hyperspectral remote sensing data.</a>;
+* [AVHYAS](https://sites.google.com/view/avhyas-sac-isro/home) - A free & open source QGIS plugin for advanced hyperspectral image analysis</a>;
+* [GEE](https://earthengine.google.com/) - Cloud computing platform for geospatial data processing and analysis (can also process hyperspectral data!).</a>;
+* [Planetary computer](https://planetarycomputer.microsoft.com/) - Multi-petabyte catalog of geospatial data combined with cloud processing tools in Python and R.</a>;
 
 # Websites
 Additional sources for information related to hyperspectral data processing
 * [ENVI help](https://www.nv5geospatialsoftware.com/docs/routines-136.html) - L3Harris' software is paid and closed source, however their documentation provides an excellent source of indices and tutorials for processing hyperspectral imagery.</a>;
 * [WYVERN](https://knowledge.wyvern.space/#/?id=knowledge-centre) - The go-to guide for all things hyperspectral! Now with sample data!</a>;
 
-
 ## Forums
-
 
 ## Training
 * [EO College](https://eo-college.org/courses/beyond-the-visible/) - EO college: Beyond the visible</a>;
