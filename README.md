@@ -75,7 +75,19 @@ Fig. 2: An AVIRIS hyperspectral datacube of Sullivan’s Island, SC. The image o
 
 
 # Websites
+Additional sources for information related to hyperspectral data processing
+* [ENVI help](https://www.nv5geospatialsoftware.com/docs/routines-136.html) - L3Harris' software is paid and closed source, however their documentation provides an excellent source of indices and tutorials for processing hyperspectral imagery.</a>;
+* [WYVERN](https://knowledge.wyvern.space/#/?id=knowledge-centre) - The go-to guide for all things hyperspectral! Now with sample data!</a>;
+
+
 ## Forums
+
+
 ## Training
+* [EO College](https://eo-college.org/courses/beyond-the-visible/) - EO college: Beyond the visible</a>;
+* [HYPERedu](https://www.enmap.org/events_education/hyperedu/) - EnMAP HYPERedu</a>;
+* [NASA](https://appliedsciences.nasa.gov/get-involved/training/english/arset-hyperspectral-data-land-and-coastal-systems) - NASA ARSET</a>;
+
+
 # Papers
 # Use cases
