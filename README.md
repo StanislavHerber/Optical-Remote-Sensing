@@ -24,17 +24,17 @@ The image below describes grahically basics of remote sensing. A,D: the source o
 Fig. 1: Basics of remote sensing
 
 # Brief history of remote sensing
-1794 - Battlefield observation via ballons</a>;
-1858 - Photography from flying kites, remote sensing via pidgeons</a>;
-1903 - First succesfull flight of brothers Wrights</a>;
-1908 - First photography from aeroplane unsure - either cpt. Cesare Tardivo, who captured Benghazi, Lybia from plane or L.P. Bonvillain captured France from plane.</a>;
-I. world war - photos of enemies from planes with camera in hand</a>;
-Between WWI and WWII British pilots were noticing monuments -> creation of aerial archeology</a>;
-Cold War 1946 - In New Mexico rocket was launched with camera to 105 km height -> first photo from space</a>;
-1958 - First espionage satellite - Russian Sputnik (1957) and US Corona (1958)</a>;
-1972 - First civil system for Earth research - Landsat</a>;
-1999 - First 1 m satellite IKONOS</a>;
-2007 - WorldView satellite 50 cm resolutions</a>;
+* 1794 - Battlefield observation via ballons</a>;
+* 1858 - Photography from flying kites, remote sensing via pidgeons</a>;
+* 1903 - First succesfull flight of brothers Wrights</a>;
+* 1908 - First photography from aeroplane unsure - either cpt. Cesare Tardivo, who captured Benghazi, Lybia from plane or L.P. Bonvillain captured France from plane.</a>;
+* I. world war - photos of enemies from planes with camera in hand</a>;
+* Between WWI and WWII British pilots were noticing monuments -> creation of aerial archeology</a>;
+* Cold War 1946 - In New Mexico rocket was launched with camera to 105 km height -> first photo from space</a>;
+* 1958 - First espionage satellite - Russian Sputnik (1957) and US Corona (1958)</a>;
+* 1972 - First civil system for Earth research - Landsat</a>;
+* 1999 - First 1 m satellite IKONOS</a>;
+* 2007 - WorldView satellite 50 cm resolutions</a>;
 
 # Hyperspectral remote sensing technology
 
