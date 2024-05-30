@@ -112,3 +112,11 @@ Additional sources for information related to hyperspectral data processing
 
 # Papers
 # Use cases
+
+# How to download available EnMAP imagery?
+First go to https://planning.enmap.org/ips/app#home. 
+Log in and go to user portal -> catalog user login
+select DESIS or EnMAP and AOI in map
+after that select specific images (limit is 20 at once) and then press shopping cart to order that batch of data (its free of cost)
+wait for email to receive data
+
